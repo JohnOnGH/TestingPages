@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: John TestingPages
+title: TestingPages
 email: john@sezoo.digital
 description: >- # this means to ignore newlines until "baseurl:"
   This is my awesome site description for the simple site I'm creating using Jekyll and GitHub Pages
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+github_username:  johnongh
 
 # Build settings
 # theme: minima
