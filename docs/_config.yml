@@ -22,6 +22,7 @@ title: TestingPages
 email: john@sezoo.digital
 description: >- # this means to ignore newlines until "baseurl:"
   This is my awesome site description for the simple site I'm creating using Jekyll and GitHub Pages
+  Apparently new lines are ignored?
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -31,9 +32,8 @@ github_username:  johnongh
 theme: minima
 # remote_theme: pages-themes/modernist@v0.2.0
 plugins:
-  - jekyll-feed
- 
-# - jekyll-remote-theme # add this line to the plugins list if you already have one
+#  - jekyll-feed
+- jekyll-remote-theme # add this line to the plugins list if you already have one
   
 # Exclude from processing.
 # The following items will not be processed, by default.
