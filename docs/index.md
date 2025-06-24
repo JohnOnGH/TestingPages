@@ -4,3 +4,4 @@
 
 layout: home
 ---
+What happens if I introduce text in this file? Where does it appear?
