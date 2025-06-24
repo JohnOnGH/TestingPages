@@ -23,7 +23,7 @@ email: john@sezoo.digital
 description: >- # this means to ignore newlines until "baseurl:"
   This is my awesome site description for the simple site I'm creating using Jekyll and GitHub Pages. 
   Apparently new lines are ignored...
-baseurl: "/docs" # the subpath of your site, e.g. /blog
+baseurl: "TestingPages/docs" # the subpath of your site, e.g. /blog
 url: "https://johnongh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  johnongh
