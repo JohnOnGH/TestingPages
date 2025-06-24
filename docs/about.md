@@ -24,4 +24,4 @@ You can find the source code for Jekyll at GitHub:
 Some text at heading three
 
 This link seemed useful, but didn't really help me solve my link problem. In the end trial and error finally gave me a combination that works. Link is:
-https://mademistakes.com/mastering-jekyll/site-url-baseurl/
+[https://mademistakes.com/mastering-jekyll/site-url-baseurl/](https://mademistakes.com/mastering-jekyll/site-url-baseurl/)
