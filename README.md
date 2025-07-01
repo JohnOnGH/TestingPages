@@ -9,7 +9,7 @@ Just playing with markdown. There is no need at all for the list I'm about to in
 
 No need at *all*.
 
-'''
+'''mermaid
 graph TD
     %% Define swimlanes for each actor
     subgraph Requester
