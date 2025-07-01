@@ -15,9 +15,9 @@ graph TD
     subgraph Requester
         direction LR
         A1(Start) --> A2[Register as User];
-        A2 --> A3[Draft and Submit DMR<br>(New/Modify)];
+        A2 --> A3[Draft and Submit DMR (New/Modify)];
         A3 --> B1;
-        C4 --> A4[Receive Notification<br>on Status Change];
+        C4 --> A4[Receive Notification on Status Change];
         D4 --> A4;
         E6 --> A4;
         A4 --> A5(End);
@@ -25,7 +25,7 @@ graph TD
 
     subgraph DMR System
         direction LR
-        B1[Receive DMR] --> B2{Automated Triage:<br>NFP for country exists?};
+        B1[Receive DMR] --> B2{Automated Triage: NFP for country exists?};
         B2 -- Yes --> C1;
         B2 -- No --> E1;
     end
