@@ -50,7 +50,7 @@ graph TD
 
         %% Common path for all approved changes
         E3 --> E4[Batch Approved Changes];
-        E4 --> E5[Publish New UN/LOCODE Release<br>(Biannually)];
+        E4 --> E5[Publish New UN/LOCODE Release Biannually];
         E5 --> E6[Notify Requester of Publication];
         D4(End);
         C4 --> D4;
