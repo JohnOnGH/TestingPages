@@ -30,7 +30,7 @@ graph TD
         B2 -- No --> E1;
     end
 
-    subgraph National Focal Point (NFP)
+    subgraph National Focal Point NFP
         direction LR
         C1[Receive DMR for Validation] --> C2{Validate Request};
         C2 -- "More Info Needed" --> A3;
